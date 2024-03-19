@@ -1,3 +1,5 @@
+# This file is to perform addition of two number give by user
+
 def addition(a, b):
     '''This method will help add 2 integers received from user as input'''
     c = a + b
