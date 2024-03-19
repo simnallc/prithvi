@@ -25,3 +25,17 @@ Creating a sample of text json that can be used for training GPT-2 model.
         * label : string
 
 ## Now adding a yaml file to the repository
+
+Added a yaml file to the repository, this will show all the files in the repository
+
+## Repo restructuring
+
+Orgaized the repo to have subsections as follows:\n
+    - File_manipulation
+    - math
+
+The above sub repositories will have respective files.
+
+# Created a yaml file display
+
+Created a python file that will use the contents of yaml fiel and print them.
