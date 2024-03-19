@@ -1,0 +1,17 @@
+directories:
+  - File_manipulation
+  - math
+math:
+  - addition.py
+  - substraction.py
+  - division.py
+  - multiplication.py
+File_manipulation:
+  - print_file_content.py
+  - show_yaml_contents.py
+files:
+  - welcome.py
+  - model_sample.json
+  - info.md
+  - README.md
+

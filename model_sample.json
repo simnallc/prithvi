@@ -1,0 +1,10 @@
+[
+    {
+        "Question": "What is the capital of France?",
+        "Context": "France, officially the French Republic, is a country primarily located in Western Europe, consisting of metropolitan France and several overseas regions and territories.",
+        "Answer": "Paris",
+        "Answer_start": 70,
+        "Answer_end": 75,
+        "label": "Ground_truth"
+    }
+]
