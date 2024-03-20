@@ -1,2 +1,2 @@
-# prithvi
+# Prithvi
 Part of training
